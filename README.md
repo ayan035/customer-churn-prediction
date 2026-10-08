@@ -75,6 +75,16 @@ The final model uses **11 input features**.
 
 The application provides two outputs:
 
+## 🖼️ Application Screenshots
+
+### Customer Input Interface
+
+![Customer Churn Input](customer-churn-input.jpeg)
+
+### Prediction Result
+
+![Customer Churn Result](customer-churn-result.jpeg)
+
 ### Customer Prediction
 
 - Customer is likely to STAY
