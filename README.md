@@ -112,7 +112,20 @@ Churn Probability: 6.91%
 - Jupyter Notebook
 - GitHub
 
-📂 Project Structure
+  ## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Joblib
+- Streamlit
+- Jupyter Notebook
+- GitHub
+
+## 📂 Project Structure
+
+```text
 customer-churn-prediction/
 │
 ├── Churn_Modelling.csv
@@ -121,6 +134,8 @@ customer-churn-prediction/
 ├── feature_columns.pkl
 ├── gradient_boosting_model.pkl
 ├── requirements.txt
+├── customer-churn-input.jpeg
+├── customer-churn-result.jpeg
 └── README.md
 
 💻 Run Locally
@@ -150,3 +165,4 @@ Ayan Ahmad
 B.Tech Student | Artificial Intelligence & Machine Learning Engineer
 - GitHub: https://github.com/ayan035
 - LinkedIn: https://www.linkedin.com/in/ayan-ahmad-4234a8313/
+
