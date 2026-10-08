@@ -150,7 +150,7 @@ Possible future improvements include:
 - Improved dashboard and analytics
 ```
 
-👨‍💻 Author
+### 👨‍💻 Author
 Ayan Ahmad
 B.Tech Student | Artificial Intelligence & Machine Learning Engineer
 - GitHub: https://github.com/ayan035
