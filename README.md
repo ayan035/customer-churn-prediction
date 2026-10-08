@@ -4,7 +4,7 @@ A Machine Learning web application that predicts whether a bank customer is like
 
 ## 🚀 Live Demo
 
-[Try the Customer Churn Prediction App](PASTE_YOUR_STREAMLIT_LINK_HERE)
+[Try the Customer Churn Prediction App](https://customer-churn-prediction-ry7e7hqghjhumcfuuynshm.streamlit.app/)
 
 ## 📌 Project Overview
 
