@@ -99,8 +99,10 @@ Example:
 ```text
 Customer is likely to STAY
 Churn Probability: 6.91%
----
- Technologies Used
+```
+
+
+🛠️ Technologies Used
 - Python
 - Pandas
 - NumPy
